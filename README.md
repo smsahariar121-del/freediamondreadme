@@ -1,2 +1,0 @@
-# freediamondreadme
-welcome
